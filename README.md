@@ -8,4 +8,4 @@ The main goal of this project is educational, focusing on strengthening problem-
 
 ## Compilation / Execution
 
-![Bubble Sort Execution](images/Captura%20de%20tela%202026-05-10%20232434.png)
+![Bubble Sort Execution](images/bubblesort-example.png)
